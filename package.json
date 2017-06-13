@@ -1,0 +1,40 @@
+{
+  "name": "react-redux-scss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "dev": "webpack-dev-server --hot --history-api-fallback"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiosantos1/react-redux.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-redux": "^5.0.5",
+    "redux": "^3.6.0",
+    "redux-form": "^6.8.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-env": "^1.5.1",
+    "babel-preset-react": "^6.24.1",
+    "babili": "^0.1.2",
+    "babili-webpack-plugin": "^0.1.1",
+    "react-hot-loader": "^3.0.0-beta.7",
+    "react-redux-form": "^1.12.1",
+    "webpack": "^2.6.0",
+    "webpack-dev-server": "^2.4.5"
+  },
+  "bugs": {
+    "url": "https://github.com/fabiosantos1/react-redux/issues"
+  },
+  "homepage": "https://github.com/fabiosantos1/react-redux#readme"
+}
